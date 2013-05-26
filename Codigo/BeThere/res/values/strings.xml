@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="map_key">0T9RMrOcUn1y6QDsl2LWv6Hn1ASyaynFSliN2fA</string>
+    <string name="titleProgressDialog">Searching...</string>
+    <string name="detailsProgressDialog">Waiting for localization</string>
+    <string name="goToMapButton">Go to Map</string>
+    <string name="ListOfCitiesButton">My cities</string>
+    <string name="AddButton">New</string>
+    <string name="AddCityButton">Add</string>
+    <string name="WelcomText">¡Welcome to </string>
+    <string name="NewCityvisited">¡New city visited!</string>
+</resources>
